@@ -1,0 +1,7 @@
+PARA TRAZER O REPOSITÓRIO PARA MEU PC 
+
+1 - Criar repositório no github
+2 - abrir o gitbash na pasta que quero clonar e rodo o comando:
+git clone URL DO REPO
+
+
